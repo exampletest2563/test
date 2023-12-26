@@ -1,0 +1,1655 @@
+1. Rhombus Perimeter:
+  - Description: Write a computer program that takes the length of one side of a rhombus as input, calculates the perimeter of the rhombus, and displays the result as output.
+  - Input: A single numerical value representing the length of one side of the rhombus.
+  - Output: The calculated perimeter of the rhombus based on the provided side length.
+  
+  Example:
+    Input: Side Length = 7
+    Output: The perimeter of the rhombus is 28
+
+2. Cone Surface Area:
+- Description: Write a computer program that takes the radius and slant height of a cone as input, calculates the total surface area of the cone, and displays the result as output.
+- Input: Two numerical values representing the radius and slant height of the cone.
+- Output: The calculated total surface area of the cone based on the provided values.
+
+   Example:
+    Input: Radius = 6 units, Slant Height = 10
+    Output: The total surface area of the cone is 282.74
+
+3. Cone Volume:
+ - Description: Write a computer program that takes the radius and height of a cone as input, calculates the volume of the cone, and displays the result as output.
+ - Input: Two numerical values representing the radius and height of the cone.
+ - Output: The calculated volume of the cone based on the provided values.
+	
+	Example:
+    Input: Radius = 4 units, Height = 9 units
+    Output: The volume of the cone is 150.8 cubic units.
+
+4. Rhombus Perimeter:
+ - Description: White a computer program that takes the length of one side of a rhombus as input, calculates the perimeter of the rhombus, and displays the result as output.
+ - Input: A single numerical value representing the length of one side of the rhombus.
+ - Output: The calculated perimeter of the rhombus based on the provided side length.
+
+ Example:
+ Input: Side Length = 7 units
+ Output: The perimeter of the rhombus is 28 units.
+
+5. Cone Surface Area:
+ - Description: White a computer program that takes the radius and slant height of a cone as input, calculates the total surface area of the cone, and displays the result as output.
+ - Input: Two numerical values representing the radius and slant height of the cone.
+ - Output: The calculated total surface area of the cone based on the provided values.
+
+ Example:
+ Input: Radius = 6 units, Slant Height = 10 units
+ Output: The total surface area of the cone is 282.74 square units.
+
+6. Cone Volume:
+ - Description: White a computer program that takes the radius and height of a cone as input, calculates the volume of the cone, and displays the result as output.
+ - Input: Two numerical values representing the radius and height of the cone.
+ - Output: The calculated volume of the cone based on the provided values.
+
+ Example:
+ Input: Radius = 4 units, Height = 9 units
+ Output: The volume of the cone is 150.8 cubic units.
+
+7. BGN to EURO Conversion:
+ - Description: White a computer program that takes an amount in Bulgarian Lev (BGN) as input, converts it to Euro (EUR) using the current exchange rate, and displays the converted amount as output.
+ - Input: A numerical value representing the amount in BGN.
+ - Output: The equivalent amount in Euro (EUR).
+
+ Example:
+ Input: Amount in BGN = 100
+ Output: 100 BGN is equivalent to 51.13 EUR.
+
+8. Apples Count:
+ - Description: White a computer program that takes the number of apples as input, and displays the count of apples.
+ - Input: A numerical value representing the number of apples.
+ - Output: The count of apples.
+
+ Example:
+ Input: Number of Apples = 10
+ Output: There are 10 apples.
+
+9. FPS Calculator:
+ - Description: White a computer program that takes the frames and time as input, calculates frames per second (FPS), and displays the result as output.
+ - Input: Two numerical values representing frames and time.
+ - Output: The calculated FPS.
+
+ Example:
+ Input: Frames = 240, Time = 6 seconds
+ Output: The FPS is 40.
+
+10. Shop Bill:
+ - Description: White a computer program that takes the prices of items in a shopping cart as input, calculates the total bill amount, and displays the result as output.
+ - Input: A list of numerical values representing item prices.
+ - Output: The total bill amount.
+
+ Example:
+ Input: Item Prices = [10, 20, 30, 15]
+ Output: The total bill amount is 75.
+
+11. Speed Calculation:
+ - Description: White a computer program that takes the distance and time as input, calculates the speed, and displays the result as output.
+ - Input: Two numerical values representing distance and time.
+ - Output: The calculated speed.
+
+ Example:
+ Input: Distance = 120 miles, Time = 2 hours
+ Output: The speed is 60 miles per hour.
+
+12. Rectangle Properties:
+ - Description: White a computer program that takes the length and width of a rectangle as input, calculates its area and perimeter, and displays the results as output.
+ - Input: Two numerical values representing length and width.
+ - Output: The calculated area and perimeter of the rectangle.
+
+ Example:
+ Input: Length = 8 units, Width = 5 units
+ Output: The area is 40 square units, and the perimeter is 26 units.
+
+13. Computer Memory:
+ - Description: White a computer program that takes the size of computer memory in gigabytes (GB) as input, calculates the equivalent size in megabytes (MB) and kilobytes (KB), and displays the results as output.
+ - Input: A numerical value representing memory size in GB.
+ - Output: The equivalent memory size in MB and KB.
+
+ Example:
+ Input: Memory Size in GB = 16
+ Output: The memory size is 16 GB, which is equal to 16384 MB or 16777216 KB.
+
+14. GBP to BGN Conversion:
+ - Description: White a computer program that takes an amount in British Pound (GBP) as input, converts it to Bulgarian Lev (BGN) using the current exchange rate, and displays the converted amount as output.
+ - Input: A numerical value representing the amount in GBP.
+ - Output: The equivalent amount in BGN.
+
+ Example:
+ Input: Amount in GBP = 50
+ Output: 50 GBP is equivalent to 116.83 BGN.
+
+15. Centimeters to Inches Conversion:
+ - Description: White a computer program that takes a length in centimeters as input, converts it to inches, and displays the converted length as output.
+ - Input: A numerical value representing the length in centimeters.
+ - Output: The equivalent length in inches.
+
+ Example:
+ Input: Length in Centimeters = 30
+ Output: 30 centimeters is equal to 11.81 inches.
+
+16. Celsius to Fahrenheit Conversion:
+ - Description: White a computer program that takes a temperature in Celsius as input, converts it to Fahrenheit, and displays the converted temperature as output.
+ - Input: A numerical value representing the temperature in Celsius.
+ - Output: The equivalent temperature in Fahrenheit.
+
+ Example:
+ Input: Temperature in Celsius = 25
+ Output: 25 degrees Celsius is equal to 77 degrees Fahrenheit.
+
+17. Average Number:
+ - Description: White a computer program that takes a list of numbers as input, calculates the average of the numbers, and displays the result as output.
+ - Input: A list of numerical values.
+ - Output: The calculated average.
+
+ Example:
+ Input: Numbers = [10, 20, 30, 40, 50]
+ Output: The average is 30.
+
+18. Employee Payment:
+ - Description: White a computer program that takes the hourly wage and hours worked by an employee as input, calculates the total payment, and displays the result as output.
+ - Input: Two numerical values representing hourly wage and hours worked.
+ - Output: The calculated total payment.
+
+ Example:
+ Input: Hourly Wage = 15 USD, Hours Worked = 40
+ Output: The total payment is 600 USD.
+
+19. Winery:
+ - Description: White a computer program that takes the quantity of wine bottles, the price per bottle, and the discount percentage as input, calculates the total cost after applying the discount, and displays the result as output.
+ - Input: Three numerical values representing quantity, price per bottle, and discount percentage.
+ - Output: The calculated total cost.
+
+ Example:
+ Input: Quantity = 12 bottles, Price per Bottle = 20 USD, Discount Percentage = 10%
+ Output: The total cost is 216 USD after a 10% discount.
+
+20. Excellent Grade:
+ - Description: White a computer program that takes a student's score as input and checks if it qualifies as an "Excellent" grade based on a predefined threshold. It then displays whether the grade is excellent or not.
+ - Input: A numerical value representing the student's score.
+ - Output: A message indicating whether the grade is "Excellent" or not.
+
+ Example:
+ Input: Student's Score = 95
+ Output: Congratulations! Your grade is Excellent.
+
+21. Age Checker:
+ - Description: White a computer program that takes a person's age as input and checks if they are eligible to vote based on a predefined age threshold. It then displays whether the person is eligible to vote or not.
+ - Input: A numerical value representing the person's age.
+ - Output: A message indicating whether the person is eligible to vote or not.
+
+ Example:
+ Input: Age = 20
+ Output: You are eligible to vote.
+
+22. Positive Number:
+- Description: White a computer program that takes a number as input and checks if it is a positive number. It then displays whether the number is positive or not.
+- Input: A numerical value.
+- Output: A message indicating whether the number is positive or not.
+
+ Example:
+ Input: Number = -7
+ Output: The number is not positive.
+
+23. Negative Number:
+ - Description: White a computer program that takes a number as input and checks if it is a negative number. It then displays whether the number is negative or not.
+ - Input: A numerical value.
+ - Output: A message indicating whether the number is negative or not.
+
+ Example:
+ Input: Number = -7
+ Output: The number is negative.
+
+24. Shop Bill (Variant):
+ - Description: White a computer program that takes the prices of items and their quantities in a shopping cart as input, calculates the total bill amount, and displays the result as output.
+ - Input: Lists of item prices and quantities.
+ - Output: The total bill amount.
+
+ Example:
+ Input: Item Prices = [10, 20, 30, 15], Quantities = [2, 3, 1, 4]
+ Output: The total bill amount is 220.
+
+25. Password Checker:
+ - Description: White a computer program that takes a user's password as input and checks its strength based on predefined criteria. It then displays whether the password is strong or not.
+ - Input: A text string representing the user's password.
+ - Output: A message indicating whether the password is strong or not.
+
+ Example:
+ Input: Password = "P@ssw0rd"
+ Output: The password is strong.
+
+26. Pool Capacity:
+ - Description: White a computer program that takes the dimensions of a swimming pool as input (length, width, depth), calculates its capacity in gallons, and displays the result as output.
+ - Input: Three numerical values representing length, width, and depth.
+ - Output: The calculated capacity of the pool in gallons.
+
+ Example:
+ Input: Length = 20 feet, Width = 10 feet, Depth = 5 feet
+ Output: The pool capacity is 7500 gallons.
+
+27. Max Number:
+ - Description: White a computer program that takes a list of numbers as input and finds the maximum value among them. It then displays the maximum number.
+ - Input: A list of numerical values.
+ - Output: The maximum number.
+
+ Example:
+ Input: Numbers = [12, 7, 23, 45, 8]
+ Output: The maximum number is 45.
+
+28. Min Number:
+ - Description: White a computer program that takes a list of numbers as input and finds the minimum value among them. It then displays the minimum number.
+ - Input: A list of numerical values.
+ - Output: The minimum number.
+
+ Example:
+ Input: Numbers = [12, 7, 23, 45, 8]
+ Output: The minimum number is 7.
+
+29. Number Checker:
+ - Description: White a computer program that takes a number as input and checks if it is within a specified interval. It then displays whether the number is within the interval or not.
+ - Input: A numerical value and specified lower and upper bounds.
+ - Output: A message indicating whether the number is within the interval or not.
+
+ Example:
+ Input: Number = 15, Lower Bound = 10, Upper Bound = 20
+ Output: The number is within the interval.
+
+30. Car Fuel:
+ - Description: White a computer program that takes the distance traveled and fuel consumed by a car as input, calculates the fuel efficiency in miles per gallon (MPG), and displays the result as output.
+ - Input: Two numerical values representing distance and fuel consumed.
+ - Output: The calculated fuel efficiency in MPG.
+
+ Example:
+ Input: Distance = 300 miles, Fuel Consumed = 10 gallons
+ Output: The fuel efficiency is 30 MPG.
+
+31. Number Sign:
+ - Description: White a computer program that takes a number as input and determines its sign (positive, negative, or zero). It then displays the sign of the number.
+ - Input: A numerical value.
+ - Output: A message indicating the sign of the number.
+
+ Example:
+ Input: Number = -7
+ Output: The number is negative.
+
+32. Luggage Price:
+ - Description: White a computer program that takes the weight of luggage and the airline's pricing policy as input, calculates the cost of transporting the luggage, and displays the result as output.
+ - Input: Weight of luggage and pricing policy (e.g., per kilogram or flat rate).
+ - Output: The calculated cost of transporting the luggage.
+
+ Example:
+ Input: Weight = 25 kg, Pricing Policy = $2 per kg
+ Output: The cost of transporting the luggage is $50.
+
+33.  Grade Calculation:
+ - Description: White a computer program that takes a student's score and a grading scale as input, calculates the grade based on the scale, and displays the result as output.
+ - Input: Student's score and grading scale (e.g., A, B, C).
+ - Output: The calculated grade.
+
+ Example:
+ Input: Student's Score = 88, Grading Scale = A: 90-100, B: 80-89, C: 70-79
+ Output: The grade is B.
+
+34. Water Degrees:
+ - Description: White a computer program that takes the temperature of water as input (in Celsius) and categorizes it as "Freezing," "Liquid," or "Steam" based on predefined temperature thresholds. It then displays the categorization.
+ - Input: Temperature in Celsius.
+ - Output: A message categorizing the water temperature.
+
+ Example:
+ Input: Temperature = 50 degrees Celsius
+ Output: The water is in liquid form.
+
+35. Days of Week:
+ - Description: White a computer program that takes a numerical day of the week as input (e.g., 1 for Sunday, 2 for Monday), and returns the corresponding day name. It then displays the day name.
+ - Input: A numerical value representing the day of the week.
+ - Output: The corresponding day name.
+
+ Example:
+ Input: Day of the Week = 3
+ Output: The day is Tuesday.
+
+36. Month Printer:
+ - Description: White a computer program that takes a numerical month as input (e.g., 1 for January, 2 for February), and returns the corresponding month name. It then displays the month name.
+ - Input: A numerical value representing the month.
+ - Output: The corresponding month name.
+
+ Example:
+ Input: Month = 7
+ Output: The month is July.
+
+37. Digit to Text:
+ - Description: White a computer program that takes a single-digit number as input and returns the corresponding text representation (e.g., 1 as "One"). It then  displays the text representation.
+ - Input: A single-digit numerical value.
+ - Output: The corresponding text representation.
+
+ Example:
+ Input: Digit = 4
+ Output: The digit is "Four."
+
+38. Circle Area (Variant):
+ - Description: White a computer program that takes the radius of a circle as input, calculates the area of the circle, and displays the result as output.
+ - Input: A single numerical value representing the radius of the circle.
+ - Output: The calculated area of the circle.
+
+ Example:
+ Input: Radius = 7 units
+ Output: The area of the circle is 153.94 square units.
+
+39. Circle Circumference (Variant):
+ - Description: White a computer program that takes the radius of a circle as input, calculates the circumference of the circle, and displays the result as output.
+ - Input: A single numerical value representing the radius of the circle.
+ - Output: The calculated circumference of the circle.
+
+ Example:
+ Input: Radius = 7 units
+ Output: The circumference of the circle is 43.98 units.
+
+40. Triangle Degrees:
+ - Description: White a computer program that takes the angles of a triangle as input (in degrees), checks if it forms a valid triangle, and classifies the triangle as "Acute," "Obtuse," or "Right." It then displays the classification.
+ - Input: Three numerical values representing the angles of the triangle.
+ - Output: A message classifying the triangle.
+
+ Example:
+ Input: Angles = 45 degrees, 45 degrees, 90 degrees
+ Output: The triangle is a Right Triangle.
+
+41. Salary Increase:
+ - Description: White a computer program that takes an employee's current salary and a percentage increase as input, calculates the new salary after the increase, and displays the new salary as output.
+ - Input: Current salary and percentage increase.
+ - Output: The new salary after the increase.
+
+ Example:
+ Input: Current Salary = 50000 USD, Percentage Increase = 10%
+ Output: The new salary is 55000 USD.
+
+42. Budgeting:
+ - Description: White a computer program that takes a person's monthly income and monthly expenses as input, calculates the remaining budget, and displays the budget as output.
+ - Input: Monthly income and monthly expenses.
+ - Output: The remaining budget.
+
+ Example:
+ Input: Monthly Income = 3000 USD, Monthly Expenses = 2000 USD
+ Output: The remaining budget is 1000 USD.
+
+43. Last Digit:
+ - Description: White a computer program that takes a number as input and returns its last digit. It then displays the last digit.
+ - Input: A numerical value.
+ - Output: The last digit of the number.
+
+ Example:
+ Input: Number = 357
+ Output: The last digit is 7.
+
+44. Elevator Capacity:
+ - Description: White a computer program that takes the weight of people entering an elevator and the maximum weight capacity of the elevator as input, checks if it's safe to allow people inside, and displays whether it's safe or not.
+ - Input: Weight of people and maximum weight capacity.
+ - Output: A message indicating if it's safe to allow people inside.
+
+ Example:
+ Input: Weight of People = 450 kg, Maximum Capacity = 500 kg
+ Output: It's safe to allow people inside.
+
+45. Even or Odd:
+ - Description: White a computer program that takes a number as input and checks if it's even or odd. It then displays whether the number is even or odd.
+ - Input: A numerical value.
+ - Output: A message indicating whether the number is even or odd.
+
+ Example:
+ Input: Number = 7
+ Output: The number is odd.
+
+46. Taxi Service:
+ - Description: White a computer program that takes the distance traveled in kilometers and the time taken in minutes for a taxi ride as input, calculates the fare based on predefined rates, and displays the fare as output.
+ - Input: Distance and time.
+ - Output: The calculated fare for the taxi ride.
+
+ Example:
+ Input: Distance = 10 km, Time Taken = 20 minutes
+ Output: The taxi fare is 25 USD.
+
+47. Three Numbers:
+ - Description: White a computer program that takes three numbers as input, finds the sum of the numbers, and displays the result as output.
+ - Input: Three numerical values.
+ - Output: The sum of the three numbers.
+
+ Example:
+ Input: Numbers = [10, 20, 30]
+ Output: The sum is 60.
+
+48. Figures Types:
+ - Description: White a computer program that takes the number of sides of a geometric figure as input, and classifies it as "Triangle," "Quadrilateral," "Pentagon," or "Hexagon" based on the number of sides. It then displays the classification.
+ - Input: The number of sides.
+ - Output: A message classifying the geometric figure.
+
+ Example:
+ Input: Number of Sides = 4
+ Output: The figure is a Quadrilateral.
+
+49. Abbreviations:
+ - Description: White a computer program that takes an abbreviation as input and returns the full form of the abbreviation. It then displays the full form.
+ - Input: An abbreviation.
+ - Output: The full form of the abbreviation.
+
+ Example:
+ Input: Abbreviation = "USA"
+ Output: The full form is "United States of America."
+
+50. Chinese Zodiac:
+ - Description: White a computer program that takes a year as input and determines the Chinese zodiac animal associated with that year based on a predefined cycle. It then displays the zodiac animal.
+ - Input: A year.
+ - Output: The Chinese zodiac animal for the year.
+
+ Example:
+ Input: Year = 1990
+ Output: The Chinese zodiac animal is the "Horse."
+
+51. Valid Age:
+ - Description: White a computer program that takes a person's age as input and checks if it falls within a valid age range (e.g., 18 to 65). It then displays whether the age is valid or not.
+ - Input: Age as a numerical value.
+ - Output: A message indicating whether the age is valid or not.
+
+ Example:
+ Input: Age = 25
+ Output: The age is valid.
+
+52. Number in Interval (Variant):
+ - Description: White a computer program that takes a number and an interval as input, checks if the number is within the specified interval, and displays whether it's in the interval or not.
+ - Input: A numerical value and specified lower and upper bounds for the interval.
+ - Output: A message indicating whether the number is within the interval or not.
+
+ Example:
+ Input: Number = 30, Lower Bound = 20, Upper Bound = 40
+ Output: The number is within the interval.
+
+53. House Building:
+ - Description: White a computer program that takes the number of floors and the type of house as input (e.g., "Apartment" or "Villa"), calculates the total cost of building the house based on predefined rates, and displays the cost as output.
+ - Input: Number of floors and type of house.
+ - Output: The total cost of building the house.
+
+ Example:
+ Input: Number of Floors = 3, Type of House = "Apartment"
+ Output: The cost of building the apartment building is 300,000 USD.
+
+54. Special Number:
+ - Description: White a computer program that takes a number as input and checks if it's a special number based on predefined criteria. It then displays whether the number is special or not.
+ - Input: A numerical value.
+ - Output: A message indicating whether the number is special or not.
+
+ Example:
+ Input: Number = 28
+ Output: The number is special.
+
+55. Triangle Sides:
+ - Description: White a computer program that takes the lengths of three sides of a triangle as input, checks if it forms a valid triangle, and displays whether it's a "Scalene," "Isosceles," or "Equilateral" triangle based on side lengths. It then displays the classification.
+ - Input: Three numerical values representing side lengths.
+ - Output: A message classifying the triangle.
+
+ Example:
+ Input: Side Lengths = [5, 5, 5]
+ Output: The triangle is an Equilateral Triangle.
+
+56. Letter Checker:
+ - Description: White a computer program that takes a character as input and checks if it's a letter (uppercase or lowercase). It then displays whether the input is a letter or not.
+ - Input: A single character.
+ - Output: A message indicating whether the input is a letter or not.
+
+ Example:
+ Input: Character = 'A'
+ Output: The input is a letter.
+
+57. Triangle Type:
+ - Description: White a computer program that takes the angles of a triangle as input (in degrees), checks if it forms a valid triangle, and classifies the triangle as "Acute," "Obtuse," or "Right" based on angle measurements. It then displays the classification.
+ - Input: Three numerical values representing the angles of the triangle.
+ - Output: A message classifying the triangle.
+
+ Example:
+ Input: Angles = 60 degrees, 60 degrees, 60 degrees
+ Output: The triangle is an Equilateral Triangle.
+
+58. Pythagorean Triplet:
+ - Description: White a computer program that takes three numbers as input and checks if they form a Pythagorean triplet (satisfying the Pythagorean theorem a^2 + b^2 = c^2). It then displays whether the numbers form a Pythagorean triplet or not.
+ - Input: Three numerical values representing the numbers to check.
+ - Output: A message indicating whether the numbers form a Pythagorean triplet or not.
+
+ Example:
+ Input: Numbers = [3, 4, 5]
+ Output: The numbers form a Pythagorean triplet.
+
+59. Century Calculation:
+ - Description: White a computer program that takes a year as input and calculates the century in which the year falls (e.g., 2000 is in the 20th century). It then displays the century.
+ - Input: A year.
+ - Output: The century in which the year falls.
+
+ Example:
+ Input: Year = 2023
+ Output: The year falls in the 21st century.
+
+60. ATM Cash Withdraw:
+ - Description: White a computer program that takes the requested amount and available balance in an ATM account as input, checks if the account balance is sufficient for the withdrawal, and displays whether the withdrawal is possible or not.
+ - Input: Requested amount and available balance.
+ - Output: A message indicating whether the withdrawal is possible or not.
+
+ Example:
+ Input: Requested Amount = 200 USD, Available Balance = 150 USD
+ Output: Insufficient balance. Withdrawal not possible.
+
+61. Color Invert:
+ - Description: White a computer program that takes a color as input (e.g., RGB values) and calculates its inverted color (complementary color). It then displays the inverted color.
+ - Input: Color information.
+ - Output: The inverted color.
+
+ Example:
+ Input: RGB Color = (255, 0, 0) (Red)
+ Output: The inverted color is (0, 255, 255) (Cyan).
+
+62. Ships Types:
+ - Description: White a computer program that takes the type of ship as input (e.g., "Cargo," "Passenger," "Warship") and provides information about the ship's characteristics. It then displays the ship's characteristics.
+ - Input: Type of ship.
+ - Output: Information about the ship's characteristics.
+
+ Example:
+ Input: Type of Ship = "Cargo"
+ Output: Cargo ships are designed for transporting goods and have a large cargo capacity.
+
+63. Animals Types:
+ - Description: White a computer program that takes the type of animal as input (e.g., "Mammal," "Bird," "Reptile") and provides information about the animal's characteristics. It then displays the animal's characteristics.
+ - Input: Type of animal.
+ - Output: Information about the animal's characteristics.
+
+ Example:
+ Input: Type of Animal = "Mammal"
+ Output: Mammals are warm-blooded vertebrates that typically give birth to live young and nurse them with milk.
+
+64. Fruit or Vegetable:
+ - Description: White a computer program that takes the name of a food item as input and determines if it's a fruit or a vegetable based on predefined criteria. It then displays whether the item is a fruit or vegetable.
+ - Input: The name of a food item.
+ - Output: A message indicating whether the item is a fruit or vegetable.
+
+ Example:
+ Input: Food Item = "Tomato"
+ Output: The item is a fruit.
+
+65. Compare Numbers:
+ - Description: White a computer program that takes two numbers as input and compares them to determine if they are equal, greater than, or less than each other. It then displays the comparison result.
+ - Input: Two numerical values.
+ - Output: A message indicating the comparison result.
+
+ Example:
+ Input: Numbers = 7, 10
+ Output: 7 is less than 10.
+
+66. Basic Calculator:
+ - Description: White a computer program that takes two numbers and an operation (addition, subtraction, multiplication, division) as input, performs the specified operation, and displays the result as output.
+ - Input: Two numerical values and the operation.
+ - Output: The result of the specified operation.
+
+ Example:
+ Input: Number 1 = 20, Number 2 = 10, Operation = Addition
+ Output: The result is 30.
+
+67. Blackjack:
+ - Description: White a computer program that simulates a simplified version of the card game Blackjack. It takes the player's and dealer's card values as input, determines the winner, and displays the result.
+ - Input: Card values for the player and dealer.
+ - Output: The result of the Blackjack game (win, lose, or tie).
+
+ Example:
+ Input: Player's Cards = [10, 7], Dealer's Cards = [8, 9]
+ Output: You win!
+
+68. Rock, Paper, Scissors:
+ - Description: White a computer program that simulates the game of Rock, Paper, Scissors. It takes the player's choice and the computer's choice as input, determines the winner, and displays the result.
+ - Input: Player's choice and computer's choice.
+ - Output: The result of the Rock, Paper, Scissors game (player wins, computer wins, or it's a tie).
+
+ Example:
+ Input: Player's Choice = Rock, Computer's Choice = Scissors
+ Output: You win!
+
+69. Days Count:
+ - Description: White a computer program that takes a start date and an end date as input, calculates the number of days between the two dates, and displays the count of days.
+ - Input: Start date and end date.
+ - Output: The number of days between the start and end dates.
+
+ Example:
+ Input: Start Date = September 1, 2023, End Date = September 14, 2023
+ Output: There are 13 days between the two dates.
+
+70. Time Convention:
+ - Description: White a computer program that takes a time in 24-hour format as input, converts it to 12-hour format, and displays the converted time.
+ - Input: Time in 24-hour format.
+ - Output: The time in 12-hour format.
+
+ Example:
+ Input: Time = 15:30
+ Output: The time is 3:30 PM.
+
+71. Time Calculation:
+ - Description: White a computer program that takes a starting time and a duration as input, calculates the ending time, and displays the ending time.
+ - Input: Starting time and duration.
+ - Output: The ending time.
+
+ Example:
+ Input: Starting Time = 14:45, Duration = 2 hours and 30 minutes
+ Output: The ending time is 17:15.
+
+72. Playback Duration:
+ - Description: White a computer program that takes the start time and end time of a video or audio clip as input, calculates the playback duration, and displays the duration.
+ - Input: Start time and end time.
+ - Output: The playback duration.
+
+ Example:
+ Input: Start Time = 12:00, End Time = 12:45
+ Output: The playback duration is 45 minutes.
+
+
+73. Armstrong Number:
+ - Description: White a computer program that takes a number as input and checks if it's an Armstrong number (equal to the sum of its own digits raised to the power of the number of digits). It then displays whether the number is an Armstrong number or not.
+ - Input: A numerical value.
+ - Output: A message indicating whether the number is an Armstrong number or not.
+
+ Example:
+ Input: Number = 153
+ Output: The number is an Armstrong number.
+
+74. Quadratic Equation:
+ - Description: White a computer program that takes the coefficients of a quadratic equation (a, b, c) as input, calculates the roots of the equation using the quadratic formula, and displays the roots.
+ - Input: Coefficients a, b, and c.
+ - Output: The roots of the quadratic equation.
+
+ Example:
+ Input: Coefficients a = 1, b = -3, c = 2
+ Output: The roots are x = 2 and x = 1.
+
+75. Logarithm:
+ - Description: White a computer program that takes a number and a base as input and calculates the logarithm of the number with the specified base. It then displays the calculated logarithm.
+ - Input: Number and base.
+ - Output: The calculated logarithm.
+
+ Example:
+ Input: Number = 64, Base = 2
+ Output: The logarithm base 2 of 64 is 6.
+
+76. Holiday Expenses:
+ - Description: White a computer program that takes a list of expenses incurred during a holiday trip as input, calculates the total expenses, and displays the total cost of the trip.
+ - Input: A list of numerical values representing expenses.
+ - Output: The total cost of the holiday trip.
+
+ Example:
+ Input: Expenses = [100, 50, 200, 75]
+ Output: The total cost of the trip is 425 USD.
+
+77. Number to Text:
+ - Description: White a computer program that takes a number as input and converts it to its text representation (e.g., 123 as "One Hundred Twenty-Three"). It then displays the text representation.
+ - Input: A numerical value.
+ - Output: The text representation of the number.
+
+ Example:
+ Input: Number = 789
+ Output: The number in text form is "Seven Hundred Eighty-Nine."
+
+
+Certainly! Here are several coding problems that involve using for loops to draw various patterns:
+
+1. **Square Pattern:**
+   Write a program that takes an integer `n` as input and prints a square pattern of size `n` using asterisks (*).
+
+   Example:
+   Input: 4
+   Output:
+   ```
+   ****
+   ****
+   ****
+   ****
+   ```
+
+2. **Right Triangle Pattern:**
+   Create a program that takes an integer `n` as input and prints a right-angled triangle pattern with a base of `n` using asterisks (*).
+
+   Example:
+   Input: 5
+   Output:
+   ```
+   *
+   **
+   ***
+   ****
+   *****
+   ```
+
+3. **Pyramid Pattern:**
+   Write a program that takes an integer `n` as input and prints a pyramid pattern with `n` levels using asterisks (*).
+
+   Example:
+   Input: 3
+   Output:
+   ```
+     *
+    ***
+   *****
+   ```
+
+4. **Diamond Pattern:**
+   Create a program that takes an integer `n` as input and prints a diamond pattern with `n` levels using asterisks (*).
+
+   Example:
+   Input: 5
+   Output:
+   ```
+     *
+    ***
+   *****
+    ***
+     *
+   ```
+
+5. **Number Pattern:**
+   Write a program that takes an integer `n` as input and prints a pattern of numbers from 1 to `n` in the following way:
+
+   Example:
+   Input: 4
+   Output:
+   ```
+   1
+   12
+   123
+   1234
+   ```
+
+6. **Hollow Square Pattern:**
+   Create a program that takes an integer `n` as input and prints a hollow square pattern of size `n` using asterisks (*).
+
+   Example:
+   Input: 5
+   Output:
+   ```
+   *****
+   *   *
+   *   *
+   *   *
+   *****
+   ```
+
+7. **Half-Pyramid Pattern Inverted:**
+   Write a program that takes an integer `n` as input and prints an inverted half-pyramid pattern with `n` levels using asterisks (*).
+
+   Example:
+   Input: 4
+   Output:
+   ```
+   ****
+   ***
+   **
+   *
+   ```
+
+8. **Alphabet Pattern:**
+   Create a program that takes an uppercase alphabet as input (e.g., 'E') and prints a pattern of the alphabet using asterisks (*).
+
+   Example:
+   Input: 'E'
+   Output:
+   ```
+   *****
+   *
+   ****
+   *
+   *****
+   ```
+
+9. **Pascal's Triangle:**
+   Write a program that takes an integer `n` as input and prints the first `n` rows of Pascal's triangle.
+
+   Example:
+   Input: 5
+   Output:
+   ```
+   1
+   1 1
+   1 2 1
+   1 3 3 1
+   1 4 6 4 1
+   ```
+
+10. **Spiral Pattern:**
+    Create a program that takes an integer `n` as input and prints a spiral pattern of numbers from 1 to `n^2`.
+
+   Example:
+   Input: 3
+   Output:
+   ```
+   1 2 3
+   8 9 4
+   7 6 5
+   ```
+
+These coding problems involve various loop structures and can be great practice for beginners and intermediate programmers to improve their loop manipulation skills.
+
+Certainly! Here are a few more coding problems that involve using for loops to draw patterns:
+
+11. **Arrow Pattern:**
+    Write a program that takes an integer `n` as input and prints an arrow pattern with `n` rows. The arrow should point to the right and be composed of asterisks (*).
+
+    Example:
+    Input: 4
+    Output:
+    ```
+    *
+    **
+    ***
+    ****
+    ***
+    **
+    *
+    ```
+
+12. **Hourglass Pattern:**
+    Create a program that takes an integer `n` as input and prints an hourglass pattern with `n` rows using asterisks (*).
+
+    Example:
+    Input: 5
+    Output:
+    ```
+    *****
+     ***
+      *
+     ***
+    *****
+    ```
+
+13. **Triangular Number Pattern:**
+    Write a program that takes an integer `n` as input and prints a triangular pattern of numbers from 1 to `n(n+1)/2`.
+
+    Example:
+    Input: 4
+    Output:
+    ```
+    1
+    2 3
+    4 5 6
+    7 8 9 10
+    ```
+
+14. **Hollow Diamond Pattern:**
+    Create a program that takes an integer `n` as input and prints a hollow diamond pattern with `n` levels using asterisks (*).
+
+    Example:
+    Input: 6
+    Output:
+    ```
+      ******
+     *    *
+    *    *
+     *    *
+      ******
+    ```
+
+15. **Chessboard Pattern:**
+    Write a program that takes an integer `n` as input and prints an `n x n` chessboard pattern using "X" and "O" characters.
+
+    Example:
+    Input: 5
+    Output:
+    ```
+    XOXOX
+    OXOXO
+    XOXOX
+    OXOXO
+    XOXOX
+    ```
+
+16. **Spiral Number Pattern:**
+    Create a program that takes an integer `n` as input and prints a spiral pattern of numbers from 1 to `n^2`.
+
+    Example:
+    Input: 4
+    Output:
+    ```
+    1 2 3 4
+    12 13 14 5
+    11 10 9 6
+    8 7 6 7
+    ```
+
+17. **Diamond with Name Pattern:**
+    Write a program that takes an integer `n` and a name as input and prints a diamond pattern with the name in the center.
+
+    Example:
+    Input: n = 5, name = "Alice"
+    Output:
+    ```
+        A
+       l l
+      i   i
+     c     c
+    e       e
+     c     c
+      i   i
+       l l
+        A
+    ```
+
+These additional coding problems offer a range of complexity and patterns to practice your loop and string manipulation skills.
+
+
+Certainly! Here are a few more coding problems involving patterns and for loops:
+
+18. **Zigzag Pattern:**
+    Write a program that takes an integer `n` as input and prints a zigzag pattern of asterisks (*) with `n` rows.
+
+    Example:
+    Input: 4
+    Output:
+    ```
+    ****
+    *
+    ****
+    *
+    ```
+
+19. **Spiral Matrix Pattern:**
+    Create a program that takes an integer `n` as input and prints a spiral matrix pattern with values from 1 to `n*n`.
+
+    Example:
+    Input: 3
+    Output:
+    ```
+    1 2 3
+    8 9 4
+    7 6 5
+    ```
+
+20. **Hexagonal Pattern:**
+    Write a program that takes an integer `n` as input and prints a hexagonal pattern with `n` rows using asterisks (*).
+
+    Example:
+    Input: 5
+    Output:
+    ```
+      *****
+     *******
+    *********
+     *******
+      *****
+    ```
+
+21. **Christmas Tree Pattern:**
+    Create a program that takes an integer `n` as input and prints a Christmas tree pattern with `n` levels using asterisks (*) and a star at the top.
+
+    Example:
+    Input: 4
+    Output:
+    ```
+       *
+      ***
+     *****
+    *******
+      |||
+    ```
+
+22. **Pac-Man Pattern:**
+    Write a program that takes an integer `n` as input and prints a Pac-Man pattern with `n` rows.
+
+    Example:
+    Input: 6
+    Output:
+    ```
+    ******
+    *    *
+    *    *
+    ******
+     *** 
+       *  
+        * 
+    ```
+
+23. **Spiral Triangle Pattern:**
+    Create a program that takes an integer `n` as input and prints a spiral triangle pattern of numbers from 1 to `n*n`.
+
+    Example:
+    Input: 4
+    Output:
+    ```
+    10 11 12 1
+     9  2  3  4
+     8  7  6  5
+    ```
+
+24. **Checkerboard Pattern:**
+    Write a program that takes an integer `n` as input and prints an `n x n` checkerboard pattern using "#" and " " characters.
+
+    Example:
+    Input: 6
+    Output:
+    ```
+    # # # # # #
+     # # # # # 
+    # # # # # #
+     # # # # # 
+    # # # # # #
+     # # # # # 
+    ```
+
+These additional coding problems should provide you with even more opportunities to practice your loop and pattern printing skills.
+
+
+Certainly! Here are several coding problems related to various types of conversions:
+
+1. **Temperature Conversion:**
+   Write a program that converts temperatures between Celsius and Fahrenheit. Given a temperature in one unit, it should convert it to the other unit.
+
+2. **Currency Conversion:**
+   Create a program that performs currency conversions. Given an amount in one currency, it should convert it to another currency using up-to-date exchange rates.
+
+3. **Length Conversion:**
+   Write a program that converts lengths between different units, such as meters to feet, kilometers to miles, or centimeters to inches.
+
+4. **Binary to Decimal Conversion:**
+   Implement a program that converts binary numbers to decimal. Given a binary number as input, it should calculate and print its decimal equivalent.
+
+5. **Decimal to Binary Conversion:**
+   Create a program that converts decimal numbers to binary. Given a decimal number as input, it should calculate and print its binary representation.
+
+6. **Hexadecimal to Decimal Conversion:**
+   Write a program that converts hexadecimal numbers to decimal. Given a hexadecimal number as input, it should calculate and print its decimal equivalent.
+
+7. **Decimal to Hexadecimal Conversion:**
+   Implement a program that converts decimal numbers to hexadecimal. Given a decimal number as input, it should calculate and print its hexadecimal representation.
+
+8. **Roman to Decimal Conversion:**
+   Create a program that converts Roman numerals to decimal numbers. Given a Roman numeral as input, it should calculate and print its decimal equivalent.
+
+9. **Decimal to Roman Conversion:**
+   Write a program that converts decimal numbers to Roman numerals. Given a decimal number as input, it should calculate and print its Roman numeral representation.
+
+10. **Time Conversion:**
+    Implement a program that converts time between different formats. For example, it can convert 24-hour time to 12-hour time or vice versa.
+
+11. **Base Conversion:**
+    Write a program that converts numbers from one base to another. For instance, it can convert a number from base 10 (decimal) to another base like binary, octal, or hexadecimal.
+
+12. **Units of Measurement Conversion:**
+    Create a program that converts between different units of measurement, such as converting liters to gallons, kilograms to pounds, or meters to yards.
+
+13. **Volume Conversion:**
+    Write a program that converts volumes between different units, like cubic meters to cubic feet, liters to fluid ounces, or gallons to milliliters.
+
+14. **Speed Conversion:**
+    Implement a program that converts speeds between different units, such as meters per second to miles per hour, kilometers per hour to feet per second, or knots to kilometers per hour.
+
+15. **Data Storage Conversion:**
+    Create a program that converts data storage sizes, such as converting bytes to kilobytes, megabytes to gigabytes, or terabytes to petabytes.
+
+These coding problems cover a wide range of conversion tasks and can be great practice for dealing with different data types and units of measurement.
+
+Certainly! Here are several coding problems related to arrays:
+
+1. **Array Sum:**
+   Write a program that calculates the sum of all elements in an integer array.
+
+2. **Array Average:**
+   Create a program that calculates the average of elements in an integer array.
+
+3. **Maximum Element:**
+   Implement a program that finds the maximum element in an integer array.
+
+4. **Minimum Element:**
+   Write a program that finds the minimum element in an integer array.
+
+5. **Array Reversal:**
+   Create a program that reverses the elements in an integer array, so the last element becomes the first, and vice versa.
+
+6. **Array Rotation:**
+   Write a program that rotates the elements in an integer array by a given number of positions (left or right).
+
+7. **Array Sorting:**
+   Implement a sorting algorithm (e.g., bubble sort, insertion sort, selection sort) to sort an integer array in ascending or descending order.
+
+8. **Duplicate Elements:**
+   Write a program that finds and prints all the duplicate elements in an integer array.
+
+9. **Remove Duplicates:**
+   Create a program that removes duplicates from an integer array, so each element appears only once.
+
+10. **Search in Array:**
+    Implement a program that searches for a specific element in an integer array and returns its index (or -1 if not found).
+
+11. **Merge Arrays:**
+    Write a program that merges two sorted integer arrays into a single sorted array.
+
+12. **Array Intersection:**
+    Create a program that finds the intersection of two integer arrays (common elements between them).
+
+13. **Array Union:**
+    Implement a program that finds the union of two integer arrays (all unique elements from both arrays).
+
+14. **Array Palindrome:**
+    Write a program that checks if an array is a palindrome (reads the same forwards and backward).
+
+15. **Missing Number:**
+    Create a program that finds the missing number in an integer array containing all but one of the numbers from a range.
+
+16. **Subarray with Given Sum:**
+    Write a program that finds a subarray with a given sum in an integer array.
+
+17. **Leaders in an Array:**
+    Implement a program that finds and prints all the leaders in an integer array. Leaders are elements that are greater than all the elements to their right.
+
+18. **Zero Sum Subarray:**
+    Create a program that finds and prints all subarrays with a zero sum in an integer array.
+
+19. **Kth Largest Element:**
+    Write a program that finds the kth largest element in an unsorted integer array.
+
+20. **Array Product Except Self:**
+    Implement a program that returns an array where each element is the product of all elements in the original array except itself.
+
+These coding problems cover a wide range of array manipulation tasks and can help improve your skills in working with arrays and solving common programming challenges.
+
+
+Certainly! Here are some more coding problems related to arrays:
+
+21. **Longest Increasing Subarray:**
+    Write a program that finds the length of the longest increasing subarray within an integer array.
+
+22. **Array Partitioning:**
+    Create a program that partitions an integer array into two subarrays, where the sum of elements in one subarray is as close as possible to the sum of elements in the other.
+
+23. **Zeroes to the End:**
+    Implement a program that moves all zeros in an integer array to the end while maintaining the order of the non-zero elements.
+
+24. **Maximum Subarray Sum:**
+    Write a program that finds the maximum sum of a contiguous subarray within an integer array (Kadane's algorithm).
+
+25. **Majority Element:**
+    Create a program that finds the majority element (element that appears more than n/2 times) in an integer array.
+
+26. **Rotate Array by K Steps:**
+    Write a program that rotates an integer array to the right by k steps, where k is a non-negative integer.
+
+27. **Trapping Rainwater:**
+    Implement a program that calculates the amount of rainwater that can be trapped between bars in an integer array representing heights.
+
+28. **Next Permutation:**
+    Create a program that generates the next lexicographically greater permutation of an integer array. If no such permutation exists, rearrange it to the lowest possible order.
+
+29. **Array Equilibrium Index:**
+    Write a program that finds the equilibrium index of an integer array, where the sum of elements at lower indexes equals the sum of elements at higher indexes.
+
+30. **Subarray with Given Product:**
+    Implement a program that finds a subarray with a given product in an integer array.
+
+31. **Array Shuffle:**
+    Write a program that shuffles the elements of an integer array randomly.
+
+32. **Count Inversions:**
+    Create a program that counts the number of inversions in an integer array. An inversion occurs when a pair of elements is in the reverse order of their sorted positions.
+
+33. **Array Median:**
+    Implement a program that finds the median of an unsorted integer array without sorting the entire array.
+
+34. **Subarray with Maximum Sum No Larger Than K:**
+    Write a program that finds the maximum sum of a subarray in an integer array such that the sum is no larger than a given value k.
+
+35. **Maximum Subarray Product:**
+    Create a program that finds the maximum product of a subarray within an integer array.
+
+These additional coding problems provide more opportunities to practice array manipulation and algorithmic thinking. They cover a variety of challenges, including searching, sorting, and optimizing array-related tasks.
+
+
+Certainly! Here are some coding problems suitable for absolute beginners:
+
+1. **Hello World:**
+   Write a program that prints "Hello, World!" to the console.
+
+2. **Sum of Two Numbers:**
+   Create a program that takes two numbers as input and prints their sum.
+
+3. **Calculator (Basic Operations):**
+   Write a program that takes two numbers and an operator (+, -, *, /) as input and performs the corresponding operation on the numbers.
+
+4. **Even or Odd:**
+   Implement a program that checks if a given number is even or odd and prints the result.
+
+5. **Leap Year Checker:**
+   Write a program that checks if a given year is a leap year (divisible by 4, but not divisible by 100 unless divisible by 400).
+
+6. **Fibonacci Series:**
+   Create a program that generates and prints the first n Fibonacci numbers.
+
+7. **Factorial Calculator:**
+   Implement a program that calculates the factorial of a given number (n!).
+
+8. **Prime Number Checker:**
+   Write a program that checks if a given number is prime (only divisible by 1 and itself).
+
+9. **Palindrome Checker:**
+   Create a program that checks if a given word or phrase is a palindrome (reads the same forwards and backward).
+
+10. **Greatest Common Divisor (GCD):**
+    Implement a program that finds and prints the GCD of two numbers using the Euclidean algorithm.
+
+11. **Reverse a String:**
+    Write a program that takes a string as input and prints it in reverse order.
+
+12. **Count Vowels and Consonants:**
+    Create a program that counts and prints the number of vowels and consonants in a given string.
+
+13. **Simple Interest Calculator:**
+    Implement a program that calculates and prints the simple interest for a principal amount, rate, and time.
+
+14. **Multiplication Table:**
+    Write a program that generates and prints the multiplication table for a given number.
+
+15. **Power of a Number:**
+    Create a program that calculates and prints the result of raising a number to a specified power.
+
+16. **Triangle Type Checker:**
+    Write a program that takes the lengths of three sides of a triangle and determines whether it is equilateral, isosceles, or scalene.
+
+17. **Sum of Digits:**
+    Implement a program that calculates the sum of the digits of a given number.
+
+18. **Print a Pattern:**
+    Create a program that prints a simple pattern, such as a triangle of asterisks or numbers.
+
+19. **Simple Alarm Clock:**
+    Write a program that takes an alarm time and current time as input and prints a message when the alarm time is reached.
+
+20. **Random Number Guessing Game:**
+    Create a simple number guessing game where the program generates a random number, and the user tries to guess it.
+
+These coding problems are designed to introduce beginners to fundamental programming concepts and help them gain confidence in coding. They cover a range of basic operations and are a great starting point for learning any programming language.
+
+Certainly! Text processing is an essential part of programming. Here are some coding problems related to text processing:
+
+1. **Count Words in a String:**
+   Write a program that counts the number of words in a given sentence or paragraph.
+
+2. **Reverse a Sentence:**
+   Create a program that reverses the words in a sentence, maintaining the order of words.
+
+3. **Character Frequency Counter:**
+   Implement a program that counts the frequency of each character in a given string.
+
+4. **Check for Anagrams:**
+   Write a program that checks if two given strings are anagrams of each other (contain the same characters in a different order).
+
+5. **Remove Vowels:**
+   Create a program that removes all vowels from a given string.
+
+6. **Text Encryption/Decryption:**
+   Implement a simple text encryption and decryption program using a basic algorithm like Caesar cipher.
+
+7. **Word Reversal in a String:**
+   Write a program that reverses the letters of each word in a given sentence but keeps the order of words intact.
+
+8. **Check for Palindromic Words:**
+   Create a program that checks if each word in a sentence is a palindrome.
+
+9. **Text Tokenization:**
+   Implement a program that tokenizes a sentence into words and prints each word on a separate line.
+
+10. **Find and Replace:**
+    Write a program that finds a specific word in a text and replaces it with another word.
+
+11. **Text Case Conversion:**
+    Create a program that converts text to uppercase or lowercase based on user input.
+
+12. **Text Statistics:**
+    Implement a program that calculates and prints various statistics about a given text, such as the number of sentences, words, and average word length.
+
+13. **Longest Word Finder:**
+    Write a program that finds and prints the longest word in a sentence.
+
+14. **Text Compression (Basic):**
+    Implement a simple text compression algorithm that replaces repeated characters with a single character followed by a count.
+
+15. **Text Encryption with a Key:**
+    Create a program that encrypts text using a user-provided encryption key.
+
+16. **Text Parsing (CSV):**
+    Write a program that reads and parses data from a CSV (Comma-Separated Values) file.
+
+17. **Text Sorting:**
+    Implement a program that sorts the lines of a text file in alphabetical order.
+
+18. **Text Search (grep-like):**
+    Create a simplified version of a text search tool (similar to `grep` in Unix) that searches for a specified pattern in a text file and prints matching lines.
+
+19. **Word Frequency Counter:**
+    Write a program that reads a text file and counts the frequency of each word in the file.
+
+20. **Text Summarization:**
+    Implement a program that summarizes a long text or article by extracting key sentences or phrases.
+
+These text processing coding problems can help you become proficient in working with strings, characters, and various text manipulation techniques, which are valuable skills in many programming tasks.
+
+Certainly! Here are some more text processing coding problems:
+
+21. **Text Alignment:**
+    Write a program that aligns text to the left, right, or center within a specified width, adding spaces as needed.
+
+22. **Text Justification:**
+    Create a program that justifies text within a specified width by adjusting the spaces between words.
+
+23. **Text Parsing (JSON):**
+    Implement a program that parses JSON (JavaScript Object Notation) data and extracts specific information or performs operations on it.
+
+24. **Text Concatenation:**
+    Write a program that concatenates multiple text files into a single file or combines strings from an array into one.
+
+25. **Text Templating:**
+    Create a program that reads a template text with placeholders and replaces the placeholders with values from a dictionary or user input.
+
+26. **Text Summarization (Advanced):**
+    Implement an advanced text summarization algorithm, such as using natural language processing (NLP) techniques to extract key information from a text.
+
+27. **Text Comparison:**
+    Write a program that compares two texts and identifies the differences (added, deleted, or modified portions) between them.
+
+28. **Text Analysis (Sentiment Analysis):**
+    Create a program that analyzes the sentiment (positive, negative, neutral) of text data, such as user reviews or social media posts.
+
+29. **Text Tokenization (Advanced):**
+    Implement a more sophisticated text tokenization program that recognizes various types of tokens, including words, punctuation, and special characters.
+
+30. **Text Spell Checker:**
+    Write a program that checks the spelling of words in a text and suggests corrections for misspelled words.
+
+31. **Text Translation:**
+    Create a program that translates text from one language to another using a translation API or library.
+
+32. **Text Compression (Advanced):**
+    Implement a more efficient text compression algorithm, such as Huffman coding.
+
+33. **Text Generation (Markov Chains):**
+    Write a program that generates text based on a given input text using Markov chains or other text generation models.
+
+34. **Text Parsing (XML):**
+    Implement a program that parses XML (Extensible Markup Language) data and extracts specific information or performs operations on it.
+
+35. **Text Extraction from Images (OCR):**
+    Create a program that uses Optical Character Recognition (OCR) to extract text from images or scanned documents.
+
+36. **Text Similarity Checker:**
+    Write a program that measures the similarity between two texts, such as comparing documents for plagiarism detection.
+
+37. **Text-to-Speech Conversion:**
+    Implement a program that converts text into speech or audio output.
+
+38. **Text Analysis (Named Entity Recognition):**
+    Create a program that identifies and extracts named entities (e.g., names of people, places, organizations) from a text.
+
+39. **Text Summarization (Abstractive):**
+    Implement an abstractive text summarization algorithm that generates summaries in a more human-like way, rephrasing content as needed.
+
+40. **Text Encryption (Advanced):**
+    Write a program that performs more advanced text encryption techniques, such as using cryptographic algorithms like AES or RSA.
+
+These advanced text processing coding problems offer more challenging tasks for those looking to expand their text manipulation and analysis skills. They often involve working with real-world data and may require knowledge of specialized libraries or techniques.
+
+
+Certainly! Coding problems related to generating data or content are commonly encountered in various applications. Here are some coding problems related to data generation and content generation:
+
+1. **Random Password Generator:**
+   Create a program that generates random passwords of a specified length with a mix of letters, numbers, and symbols.
+
+2. **Random Number Generator:**
+   Implement a program that generates a random number within a given range.
+
+3. **Random Name Generator:**
+   Write a program that generates random names based on specified criteria, such as combining syllables or using predefined name lists.
+
+4. **Random Sentence Generator:**
+   Create a program that generates random sentences by selecting words or phrases from predefined lists, producing coherent text.
+
+5. **Lorem Ipsum Generator:**
+   Implement a program that generates placeholder text in the style of "Lorem Ipsum," often used in design and typesetting.
+
+6. **Meme Generator:**
+   Write a program that combines text and images to create memes, allowing users to input custom text.
+
+7. **Poetry Generator:**
+   Create a program that generates random poems or verses with specified rhyme schemes or themes.
+
+8. **Music Note Generator:**
+   Implement a program that generates random sequences of musical notes, which can be used for music composition or testing.
+
+9. **Artificial Data Generator:**
+   Write a program that generates artificial data sets for testing and training machine learning models.
+
+10. **Code Generator (e.g., QR Code):**
+    Create a program that generates various types of codes, such as QR codes, barcodes, or unique identifiers.
+
+11. **Story Generator:**
+    Implement a program that generates short stories or narratives based on user input or predefined themes.
+
+12. **Recipe Generator:**
+    Write a program that generates random recipes with ingredients and cooking instructions, useful for culinary inspiration.
+
+13. **Fake News Generator:**
+    Note: Be ethical with this. Generate fictional news articles for educational purposes to demonstrate the challenges of detecting fake news.
+
+14. **Haiku Generator:**
+    Create a program that generates haikus, adhering to the traditional 5-7-5 syllable structure.
+
+15. **Sentence Completion Generator:**
+    Implement a program that generates sentence completion exercises for language learning or quizzes.
+
+16. **Math Problem Generator:**
+    Write a program that generates random math problems (e.g., addition, subtraction, multiplication) for practice.
+
+17. **Email Address Generator:**
+    Create a program that generates random email addresses, useful for creating test accounts or data masking.
+
+18. **Company Name Generator:**
+    Write a program that generates random company names for startups or fictional businesses.
+
+19. **Tweet Generator:**
+    Implement a program that generates random tweets or social media posts, including hashtags and mentions.
+
+20. **Board Game Scenario Generator:**
+    Create a program that generates scenarios or setups for board games, tabletop RPGs, or other gaming activities.
+
+These coding problems related to data and content generation can be fun and practical for various applications, including creative content creation, test data generation, and educational tools.
+
+
+
+Certainly! Here are some more coding problems related to data and content generation:
+
+21. **Code Challenge Generator:**
+    Write a program that generates coding challenges or programming exercises with varying levels of difficulty and specifications.
+
+22. **Landscape Generator:**
+    Create a program that generates random landscapes or terrain maps, useful for game development or simulation.
+
+23. **Comic Strip Generator:**
+    Implement a program that generates comic strips by combining predefined characters, backgrounds, and dialogues.
+
+24. **Abstract Art Generator:**
+    Write a program that generates abstract art by creating random patterns and color combinations.
+
+25. **Joke Generator:**
+    Create a program that generates jokes or humorous one-liners.
+
+26. **Conversation Simulator:**
+    Implement a program that simulates text-based conversations between virtual characters or chatbots.
+
+27. **Password Strength Checker:**
+    Write a program that evaluates the strength of a password and suggests improvements.
+
+28. **Data Visualization Generator:**
+    Create a program that generates random data sets and visualizes them using charts, graphs, or plots.
+
+29. **Sudoku Puzzle Generator:**
+    Implement a program that generates Sudoku puzzles of varying difficulty levels.
+
+30. **Crossword Puzzle Generator:**
+    Write a program that generates crossword puzzles with clues.
+
+31. **Playlist Generator:**
+    Create a program that generates playlists of songs based on user preferences or predefined themes.
+
+32. **Artificial Language Generator:**
+    Implement a program that generates artificial languages, including vocabulary and grammar rules.
+
+33. **Emoji Art Generator:**
+    Write a program that creates artwork or images using emojis and Unicode characters.
+
+34. **Website Content Generator:**
+    Create a program that generates random website content, including text, images, and links.
+
+35. **Product Description Generator:**
+    Implement a program that generates product descriptions for e-commerce websites.
+
+36. **Idea Generator:**
+    Write a program that generates random ideas, prompts, or creative concepts for brainstorming sessions.
+
+37. **Short Story Plot Generator:**
+    Create a program that generates the plot outlines for short stories or novels.
+
+38. **Bingo Card Generator:**
+    Implement a program that generates bingo cards with random numbers.
+
+39. **Chess Puzzle Generator:**
+    Write a program that generates chess puzzles for practice and improvement.
+
+40. **Scientific Data Generator:**
+    Create a program that generates scientific data sets with various parameters and distributions for research or simulations.
+
+These coding problems offer a wide range of possibilities for data and content generation, catering to different interests and applications. They can be used for creative projects, educational purposes, or practical tools.
+
+Certainly! Coding problems related to validation are essential for ensuring data integrity and security in software applications. Here are some coding problems related to validation:
+
+1. **Email Address Validation:**
+   Write a program that validates whether an input string is a valid email address according to common email format rules.
+
+2. **Password Strength Checker:**
+   Implement a program that checks the strength of a password based on criteria such as length, character types (uppercase, lowercase, digits, symbols), and uniqueness.
+
+3. **Phone Number Validation:**
+   Create a program that validates whether an input string is a valid phone number according to a specific format or country's rules.
+
+4. **URL Validation:**
+   Write a program that validates whether an input string is a valid URL, checking for correct protocol, domain format, and path.
+
+5. **Date and Time Validation:**
+   Implement a program that validates date and time input, ensuring it adheres to a specific format and falls within valid ranges.
+
+6. **Credit Card Number Validation:**
+   Create a program that validates credit card numbers using checksum algorithms like Luhn's algorithm.
+
+7. **ISBN Validation:**
+   Write a program that validates International Standard Book Numbers (ISBNs) to ensure they adhere to the correct format and have valid check digits.
+
+8. **Social Security Number (SSN) Validation:**
+   Implement a program that validates Social Security Numbers based on their format and valid ranges.
+
+9. **IP Address Validation:**
+   Create a program that validates whether an input string is a valid IPv4 or IPv6 address.
+
+10. **Username Validation:**
+    Write a program that validates usernames, checking for allowed characters, length, and uniqueness.
+
+11. **CAPTCHA Verification:**
+    Implement a CAPTCHA verification system that requires users to solve a challenge to prove they are not a bot.
+
+12. **Data Input Validation:**
+    Create a program that validates user input for forms, ensuring that data entered is of the correct type and format (e.g., numeric, alphanumeric, date).
+
+13. **Credit Card Expiration Date Validation:**
+    Write a program that validates credit card expiration dates to ensure they are valid and not expired.
+
+14. **File Upload Validation:**
+    Implement validation for file uploads, checking file types, size limits, and ensuring files are not infected with malware.
+
+15. **Access Control Validation:**
+    Write code that validates user permissions and access rights to specific resources or actions within an application.
+
+16. **Data Integrity Validation:**
+    Create a program that checks the integrity of data stored in a database or file, ensuring it follows predefined constraints and rules.
+
+17. **User Input Sanitization:**
+    Implement a program that sanitizes user input to prevent SQL injection, cross-site scripting (XSS), and other security vulnerabilities.
+
+18. **Form Validation Library:**
+    Create a reusable library or module that provides form validation functions for common input types (text, email, number, etc.).
+
+19. **Regular Expression Validation:**
+    Write a program that validates input using regular expressions for complex patterns, such as custom date formats or specialized codes.
+
+20. **Credit Score Validation:**
+    Implement a program that validates and calculates credit scores based on a set of rules and financial data.
+
+These coding problems related to validation are crucial for ensuring the correctness and security of user inputs and data processing in software applications. They cover a wide range of validation scenarios and can help developers build robust and secure systems.
+
+
+Certainly! Here are some more coding problems related to validation:
+
+21. **XML/HTML Markup Validation:**
+    Write a program that validates whether an input string containing XML or HTML markup follows the correct structure and nesting rules.
+
+22. **File Path Validation:**
+    Implement a program that validates file paths, checking for valid characters, length limits, and directory structures.
+
+23. **Color Code Validation:**
+    Create a program that validates color codes in various formats (e.g., hexadecimal, RGB, HSL) for valid color representations.
+
+24. **Zip Code Validation:**
+    Write a program that validates postal zip codes, ensuring they adhere to the correct format for a given country.
+
+25. **Latitude and Longitude Validation:**
+    Implement a program that validates latitude and longitude coordinates, ensuring they fall within valid ranges.
+
+26. **Currency Code Validation:**
+    Create a program that validates currency codes according to ISO standards, checking for correctness and currency availability.
+
+27. **JSON Schema Validation:**
+    Write a program that validates JSON data against a predefined schema to ensure it conforms to the expected structure.
+
+28. **Domain Name Validation:**
+    Implement a program that validates domain names, checking for valid characters, length limits, and top-level domain (TLD) validity.
+
+29. **UUID (Universally Unique Identifier) Validation:**
+    Create a program that validates UUIDs to ensure they adhere to the correct format and uniqueness.
+
+30. **Checksum Validation:**
+    Write a program that validates data integrity using checksums or hash functions, verifying the data against a checksum value.
+
+31. **License Key Validation:**
+    Implement a program that validates software license keys to ensure they are legitimate and have not been tampered with.
+
+32. **XML Signature Validation:**
+    Create a program that validates XML digital signatures to verify the authenticity and integrity of XML documents.
+
+33. **JWT (JSON Web Token) Validation:**
+    Write a program that validates JWTs to ensure they are valid, not expired, and have not been tampered with.
+
+34. **Database Input Validation:**
+    Implement data validation at the database level to prevent SQL injection attacks and ensure data consistency.
+
+35. **Geolocation Data Validation:**
+    Create a program that validates geolocation data, including addresses and place names, for accuracy and correctness.
+
+36. **Digital Certificate Validation:**
+    Write a program that validates digital certificates to ensure they are issued by a trusted authority and have not expired.
+
+37. **IPv4 Subnet Mask Validation:**
+    Implement a program that validates IPv4 subnet masks to ensure they are in a valid format and within valid ranges.
+
+38. **OAuth Token Validation:**
+    Create a program that validates OAuth tokens to ensure they grant the appropriate access rights and have not expired.
+
+39. **XML Signature Validation:**
+    Write a program that validates XML digital signatures to verify the authenticity and integrity of XML documents.
+
+40. **Vehicle Identification Number (VIN) Validation:**
+    Implement a program that validates VINs to ensure they adhere to the correct format and are valid vehicle identifiers.
+
+These coding problems related to validation cover a wide range of scenarios, from input validation to security and data integrity checks. They are crucial for building reliable and secure software systems.
